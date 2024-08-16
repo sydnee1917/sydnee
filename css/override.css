@@ -17,10 +17,7 @@ border: 8px solid #f48722;
       border: 8px solid #f48722;
 }
 
-body {
-    background-image: linear-gradient(rgba(255,234,217,0.9542410714285714), rgba(100,125,95,0.25812214176829273)), url("../images/img/bg1.jpg");
-    
-}
+
 
 .icon {
 border: none;
